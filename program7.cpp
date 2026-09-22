@@ -1,3 +1,4 @@
+//Scanf function with float and double
 #include <stdio.h>
 #include<conio.h>
 
