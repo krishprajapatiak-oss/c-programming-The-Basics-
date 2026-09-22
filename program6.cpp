@@ -1,3 +1,4 @@
+//How to use scanf
 #include<stdio.h>
 
 int main(){
