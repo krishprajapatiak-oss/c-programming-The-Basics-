@@ -1,3 +1,4 @@
+//How to use datatype and variables #float
 #include<stdio.h>
 #define pi 3.14
 
