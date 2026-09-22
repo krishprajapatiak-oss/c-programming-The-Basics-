@@ -1,3 +1,4 @@
+//How to use datatypes and variables #double
 #include<stdio.h>
 
 int main(){
