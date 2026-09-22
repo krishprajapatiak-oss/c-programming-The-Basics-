@@ -1,3 +1,4 @@
+//How to use datatype and variables #char
 #include <stdio.h>
 #include <conio.h>
 
